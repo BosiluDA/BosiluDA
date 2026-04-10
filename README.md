@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated BSc Software Engineering undergraduate with a strong interest in building efficient, scalable, and user-focused software solutions.<br>I have hands-on experience in web development, desktop application development and database management through academic and personal projects. <br>I enjoy solving real-world problems using technology and continuously improving my skills in programming, system design and software development methodologies.<br>I am passionate about learning emerging technologies and aim to grow into a skilled and innovative software engineer.
+I am a dedicated BSc Software Engineering undergraduate with a strong interest in building efficient, scalable and user focused software solutions.<br>I have hands on experience in web development, desktop application development and database management through academic and personal projects. <br>I enjoy solving real-world problems using technology and continuously improving my skills in programming, system design and software development methodologies.<br>I am passionate about learning emerging technologies and aim to grow into a skilled and innovative software engineer.
 
 
 ## 🌐 Socials:
